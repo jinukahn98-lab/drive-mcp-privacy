@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "drive-mcp-local": {
+      "comment": "Replace command and args with your Drive MCP Local install docs. This is not a working config by itself.",
+      "command": "PATH_TO_NODE_OR_NPX",
+      "args": ["PATH_OR_PACKAGE_NAME_FOR_DRIVE_MCP_LOCAL"],
+      "env": {
+        "GOOGLE_OAUTH_KEYS_PATH": "/path/to/your/gcp-oauth.keys.json",
+        "GOOGLE_TOKENS_PATH": "/path/to/your/tokens.json"
+      }
+    }
+  }
+}
