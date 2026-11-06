@@ -1,0 +1,19 @@
+Drive MCP Local Workflows — Agensi skill package
+Copyright (c) 2026 진욱 안 (jinukahn@naver.com)
+
+All rights reserved.
+
+This ZIP contains instructional text (SKILL.md, reference docs, and templates)
+prepared for sale or distribution on the Agensi marketplace. The buyer may use
+the purchased skill through Agensi under Agensi's buyer terms.
+
+This package does NOT include the Drive MCP Local server source code, OAuth
+client credentials, or Google API implementation. Those remain separate works
+under their own licenses and are installed by the buyer on their own machine.
+
+Redistribution of this skill's files outside Agensi's licensed delivery
+mechanism is not permitted unless you are the rights holder or have written
+permission.
+
+For privacy practices related to the Drive MCP Local product name, see:
+https://github.com/jinukahn98-lab/drive-mcp-privacy
